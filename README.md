@@ -1,3 +1,5 @@
 ## Github Markdown Cheatsheet
 
-Please go to the wiki page for full project or [click here](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
+Ful Project on wiki page: 
+
+[Github Markdown Cheatsheet Wiki](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
