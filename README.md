@@ -1,5 +1,5 @@
 ## Github Markdown Cheatsheet
 
-Full project on the wiki page: 
+Please gp to the wiki page: 
 
 [Github Markdown Cheatsheet Wiki](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
