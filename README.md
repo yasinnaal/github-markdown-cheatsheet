@@ -4,7 +4,7 @@ Go to the wiki page:
 
 [Github Markdown Cheatsheet Wiki](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
 
-Welcome to the Github Markdown Cheatsheet (syntax) wiki
+## Welcome to my Github Markdown Cheatsheet yn-github-markdown-cheatsheet
 
 #### Table of Contents
 
