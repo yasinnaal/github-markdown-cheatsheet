@@ -22,6 +22,8 @@ Visit wiki page:
 [Horizontal Line](#Horizontal-Line)<br>
 [Tables](#Tables)<br>
 [Raise to Power](#Raise-to-Power)<br>
+[Trademark Symbol](#Trademark-Symbol)<br>
+
 [Images](#Images)<br>
 [Emoji](#Emoji)<br>
 [Shields Badges](#Shields-Badges)
@@ -249,6 +251,13 @@ Note: Colons : are used to align columns lef, right, center.
 ```
 4<sup>3</sup>
 
+
+## Trademark Symbol
+
+```
+Trademark symbol<sup>TM</sup>
+```
+Trademark Symbol<sup>TM</sup>
 
 ## Images
 ```
