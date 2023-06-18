@@ -1,4 +1,5 @@
 ## Github Markdown Cheatsheet
+[![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 
 Go to the wiki page: 
 
