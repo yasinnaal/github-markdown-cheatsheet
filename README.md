@@ -23,7 +23,7 @@ Visit wiki page:
 [Tables](#Tables)<br>
 [Raise to Power](#Raise-to-Power)<br>
 [Trademark Symbol](#Trademark-Symbol)<br>
-
+[copyright symbol](#copyright-Symbol)<br>
 [Images](#Images)<br>
 [Emoji](#Emoji)<br>
 [Shields Badges](#Shields-Badges)
@@ -258,6 +258,13 @@ Note: Colons : are used to align columns lef, right, center.
 Trademark symbol<sup>TM</sup>
 ```
 Trademark Symbol<sup>TM</sup>
+
+## Copyright Symbol
+```
+ &copy;
+``
+Copyright &copy;
+
 
 ## Images
 ```
