@@ -1,4 +1,4 @@
-name: GitHub
+name: GitHub Up to Date
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
