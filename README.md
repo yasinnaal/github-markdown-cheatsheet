@@ -21,6 +21,7 @@ Visit wiki page:
 [Line Breaks](#Line-Breaks)<br>
 [Horizontal Line](#Horizontal-Line)<br>
 [Tables](#Tables)<br>
+[Raise to Power](#Raise-to-Power)<br>
 [Images](#Images)<br>
 [Emoji](#Emoji)<br>
 [Shields Badges](#Shields-Badges)
@@ -241,6 +242,13 @@ Note: Colons : are used to align columns lef, right, center.
 |---|:---|---:|
 |Row 1 Column 1| Row 1 Column 2| Row 1 Column 3|
 |Row 2 Column 1| Row 2 Column 2| Row 2 Column 3|
+
+## Raise to Power
+```
+4<sup>3</sup>
+```
+4<sup>3</sup>
+
 
 ## Images
 ```
