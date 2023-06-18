@@ -1,7 +1,7 @@
 ## Github Markdown Cheatsheet
 [![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 
-Go to the wiki page: 
+Visit wiki page: 
 
 [Github Markdown Cheatsheet Wiki](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
 
