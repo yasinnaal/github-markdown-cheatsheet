@@ -257,12 +257,16 @@ Note: Colons : are used to align columns lef, right, center.
 ```
 Trademark symbol<sup>TM</sup>
 ```
+
 Trademark Symbol<sup>TM</sup>
 
 ## Copyright Symbol
+
 ```
  &copy;
-``
+ 
+ ```
+ 
 Copyright &copy;
 
 
