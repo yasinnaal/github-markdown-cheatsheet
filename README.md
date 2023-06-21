@@ -9,9 +9,7 @@ Visit wiki page:
 
 any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
-## Welcome to my Github Markdown Cheatsheet 
-
-#### Table of Contents
+##  Table of Contents
 
 [Headers](#Headers)<br>
 [Emphasis (Style Text Bold, Italic, strikethrough)](#Emphasis)<br>
