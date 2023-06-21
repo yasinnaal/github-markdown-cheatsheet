@@ -7,6 +7,8 @@ Visit wiki page:
 
 [Github Markdown Cheatsheet Wiki](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
 
+For any suggestions or feedback click [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
+
 ## Welcome to my Github Markdown Cheatsheet 
 
 #### Table of Contents
