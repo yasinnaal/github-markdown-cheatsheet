@@ -7,6 +7,8 @@ Visit wiki page:
 
 [Github Markdown Cheatsheet Wiki](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki)
 
+see my: [Github emoji list](https://github.com/yasinnaal/github-emoji-list/blob/main/README.md)
+
 any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
 ##  Table of Contents
