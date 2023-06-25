@@ -341,5 +341,6 @@ You can show information about your repository like forks total...etc.
 
 ---
 
-References: [markdown cheatsheet online pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+## Feedback
+write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
