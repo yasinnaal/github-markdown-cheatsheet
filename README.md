@@ -339,8 +339,6 @@ You can search on [https://shields.io/](https://shields.io/) to see all github b
 
 You can show information about your repository like forks total...etc. 
 
----
-
 ## Feedback
 write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
