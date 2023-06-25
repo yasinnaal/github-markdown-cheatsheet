@@ -30,9 +30,9 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 [copyright symbol](#copyright-Symbol)<br>
 [Images](#Images)<br>
 [Centering Image](#Centering-Image)<br>
+[Centering Text](#Centering-Text)>br>
 [Emoji](#Emoji)<br>
-[Shields Badges](#Shields-Badges)
-
+[Shields Badges](#Shields-Badges)<br>
 
 ## Headers
 
@@ -299,7 +299,18 @@ to add tip text on mouse hover
 
 <div align="center">
 <img src="https://github.com/yasinnaal/images/blob/main/github_logo.png "Github Logo" width="200">
-<p>centered text and Image.</p>
+<p>centered text and Image using div tag.</p>
+</div>
+
+## Centering Text
+
+```
+<div align="center">
+<p>center text using div tag.</p>
+</div>
+```
+<div align="center">
+<p>center text using div tag.</p>
 </div>
 
 
