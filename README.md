@@ -29,7 +29,7 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 [copyright symbol](#copyright-Symbol)<br>
 [Images](#Images)<br>
 [Centering Image](#Centering-Image)<br>
-[Centering Text](#Centering-Text)>br>
+[Centering Text](#Centering-Text)<br>
 [Emoji](#Emoji)<br>
 [Shields Badges](#Shields-Badges)<br>
 
