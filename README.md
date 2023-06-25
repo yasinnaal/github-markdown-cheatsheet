@@ -29,6 +29,7 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 [Trademark Symbol](#Trademark-Symbol)<br>
 [copyright symbol](#copyright-Symbol)<br>
 [Images](#Images)<br>
+[Centering Image](#Centering-Image)<br>
 [Emoji](#Emoji)<br>
 [Shields Badges](#Shields-Badges)
 
@@ -280,15 +281,27 @@ Copyright &copy;
 
 or
 
-<img src="https://github.com/yasinnaal/images/blob/main/github_logo.png?raw=true">
-
-or
-
 to add tip text on mouse hover
 
 ![alt text](https://github.com/yasinnaal/images/blob/main/github_logo.png "Github Logo")
 ```
+
 ![alt text](https://github.com/yasinnaal/images/blob/main/github_logo.png "Github Logo")
+
+## Centering Image
+
+```
+<div align="center">
+<img src="https://github.com/yasinnaal/images/blob/main/github_logo.png "Github Logo" width="200">
+<p>centered text and Image.</p>
+</div>
+```
+
+<div align="center">
+<img src="https://github.com/yasinnaal/images/blob/main/github_logo.png "Github Logo" width="200">
+<p>centered text and Image.</p>
+</div>
+
 
 ## Emoji
 [Emoji](https://github.com/yasinnaal/Github-Markdown-Cheatsheet/wiki/Emoji)<br>
