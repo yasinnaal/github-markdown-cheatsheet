@@ -272,7 +272,7 @@ How to include footnote referance[^1].
 ```
 How to include footnote referance[^1].
 
-[^1]:How to include footnote referance.
+[^1]:good explenation to show how to use footnote and add refernaces
 
 plese check bottom of this page.
 
