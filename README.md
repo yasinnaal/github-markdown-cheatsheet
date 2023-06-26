@@ -10,8 +10,6 @@ see the: [Github emoji list](https://github.com/yasinnaal/github-emoji-list/blob
 
 for any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
-
-
 ##  Table of Contents
 
 [Headers](#Headers)<br>
@@ -267,10 +265,16 @@ Note: Colons : are used to align columns lef, right, center.
 
 ## Footnotes
 ```
-footnote example[^1].
-```
-footnote example[^1].
+How to put footnote referance[^1].
 
+[^1]: How to put footnote referance.
+
+```
+ How to put footnote referance[^1].
+
+[^1]: How to put footnote referance.
+
+check end of this page.
 
 ## Trademark Symbol
 
