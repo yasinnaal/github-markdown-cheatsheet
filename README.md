@@ -267,12 +267,12 @@ Note: Colons : are used to align columns lef, right, center.
 ```
 How to include footnote referance[^1].
 
-[^1]:How to include footnote referance.
+[^1]:good explenation show how to use footnote refernaces.
 
 ```
 How to include footnote referance[^1].
 
-[^1]:good explenation to show how to use footnote and add refernaces
+[^1]:good explenation show how to use footnote refernaces.
 
 plese check bottom of this page.
 
