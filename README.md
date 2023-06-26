@@ -265,16 +265,16 @@ Note: Colons : are used to align columns lef, right, center.
 
 ## Footnotes
 ```
-How to put footnote referance[^1].
+How to include footnote referance[^1].
 
-[^1]: How to put footnote referance.
+[^1]:How to include footnote referance.
 
 ```
- How to put footnote referance[^1].
+How to include footnote referance[^1].
 
-[^1]: How to put footnote referance.
+[^1]:How to include footnote referance.
 
-check end of this page.
+plese check bottom of this page.
 
 ## Trademark Symbol
 
