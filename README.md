@@ -10,10 +10,13 @@ see the: [Github emoji list](https://github.com/yasinnaal/github-emoji-list/blob
 
 for any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
+
+
 ##  Table of Contents
 
 [Headers](#Headers)<br>
 [Emphasis (Style Text Bold, Italic, strikethrough)](#Emphasis)<br>
+[Highlight](#Highlight)
 [Blockquotes](#Blockquotes)<br>
 [Lists](#Lists)<br>
 [Ordered List](#Ordered)<br>
@@ -77,6 +80,12 @@ __Text will be bold__
 *You **can** combine them*
 
 ~~strikethrough text (deleted text)~~ or <del>strikethrough text (deleted text)</del>
+
+## Highlight
+```
+`Highlight text` 
+```
+`Highlight text`
 
 ## Blockquotes
 
