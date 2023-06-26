@@ -10,10 +10,12 @@
 
 for any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
 
+
 ##  Table of Contents
 
 [Headers](#Headers)<br>
 [Emphasis (Style Text Bold, Italic, strikethrough)](#Emphasis)<br>
+[Superscript](#Superscript)<br>
 [Highlight](#Highlight)<br>
 [Blockquotes](#Blockquotes)<br>
 [Lists](#Lists)<br>
@@ -79,6 +81,17 @@ __Text will be bold__
 *You **can** combine them*
 
 ~~strikethrough text (deleted text)~~ or <del>strikethrough text (deleted text)</del>
+
+## Superscript
+
+```
+Normal Text
+
+<sub> text with Superscript tag will look smaller
+```
+Normal Text
+
+<sub> text with Superscript tag will look smaller
 
 ## Highlight
 ```
@@ -260,8 +273,12 @@ Note: Colons : are used to align columns lef, right, center.
 ## Raise to Power
 ```
 4<sup>3</sup>
+
+3<sup>2</sup>= 9
 ```
 4<sup>3</sup>
+
+3<sup>2</sup>= 9
 
 ## Footnotes
 ```
