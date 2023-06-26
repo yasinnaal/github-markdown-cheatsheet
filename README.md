@@ -28,7 +28,7 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 [Horizontal Line](#Horizontal-Line)<br>
 [Tables](#Tables)<br>
 [Raise to Power](#Raise-to-Power)<br>
-[Footnotes](#Footnotes)
+[Footnotes](#Footnotes)<br>
 [Trademark Symbol](#Trademark-Symbol)<br>
 [copyright symbol](#copyright-Symbol)<br>
 [Images](#Images)<br>
