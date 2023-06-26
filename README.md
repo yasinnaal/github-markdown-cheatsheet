@@ -28,6 +28,7 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 [Horizontal Line](#Horizontal-Line)<br>
 [Tables](#Tables)<br>
 [Raise to Power](#Raise-to-Power)<br>
+[Footnotes](#Footnotes)
 [Trademark Symbol](#Trademark-Symbol)<br>
 [copyright symbol](#copyright-Symbol)<br>
 [Images](#Images)<br>
@@ -263,6 +264,12 @@ Note: Colons : are used to align columns lef, right, center.
 4<sup>3</sup>
 ```
 4<sup>3</sup>
+
+## Footnotes
+```
+footnote example[^1].
+```
+footnote example[^1].
 
 
 ## Trademark Symbol
